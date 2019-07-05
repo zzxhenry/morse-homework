@@ -30,3 +30,11 @@ morse连接图
 ### 课程总结  7.5
 
 开源硬件实战课程总结.doc
+
+## 7.6作业
+
+### 7.6额外作业
+
+siweixianshi.ino
+
+sigeshumaguanlianjietu.png
